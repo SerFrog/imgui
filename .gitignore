@@ -57,3 +57,17 @@ examples/example_sdl2_metal/example_sdl2_metal
 examples/example_sdl2_opengl2/example_sdl2_opengl2
 examples/example_sdl2_opengl3/example_sdl2_opengl3
 examples/example_sdl2_sdlrenderer/example_sdl2_sdlrenderer
+
+[Bb]in
+[Bb]in-int
+*.vcxproj
+*.mk
+*.project
+*.workspace
+compile_commands.json
+Makefile
+# generated directories
+.codelite/
+
+*.session
+*.tags
